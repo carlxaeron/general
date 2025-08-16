@@ -37,3 +37,4 @@ echo "2. Check the README.md for usage examples"
 echo "3. Run tests: composer test"
 echo ""
 echo "🎉 Happy coding!"
+

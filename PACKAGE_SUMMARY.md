@@ -30,7 +30,7 @@ carlxaeron/general/
 │   └── GeneralTest.php             # Basic test suite
 ├── composer.json                    # Package dependencies
 ├── README.md                        # Comprehensive documentation
-├── USAGE_DEMO.md                   # Usage demonstrations
+├── PACKAGE_SUMMARY.md              # This summary file
 ├── LICENSE                          # MIT license
 ├── CHANGELOG.md                     # Version history
 ├── phpunit.xml                      # Test configuration
@@ -141,4 +141,12 @@ composer require carlxaeron/general
 - **Testing**: Basic test suite included
 - **Updates**: Follow semantic versioning for future updates
 
+## Laravel Compatibility
+
+This package is compatible with:
+- Laravel 10.x
+- Laravel 11.x  
+- Laravel 12.x
+
 This package represents a significant improvement in code organization and reusability, making your general_maps and general_meta functionality available to any Laravel project that needs flexible relationship and metadata management.
+

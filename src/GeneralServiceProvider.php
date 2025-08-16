@@ -42,3 +42,4 @@ class GeneralServiceProvider extends ServiceProvider
         }
     }
 }
+

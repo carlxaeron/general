@@ -9,7 +9,7 @@ A Laravel package providing general mapping and meta functionality for flexible 
 - **Helper Functions**: Global helper functions for easy access
 - **Traits**: Easy-to-use traits for models
 - **Configurable**: Customizable table names and settings
-- **Laravel 10/11 Compatible**: Works with modern Laravel versions
+- **Laravel 10/11/12 Compatible**: Works with modern Laravel versions
 
 ## Installation
 
@@ -351,3 +351,4 @@ If you have any questions or need help, please open an issue on GitHub or contac
 - General Meta functionality
 - Helper functions
 - Laravel 10/11 compatibility
+

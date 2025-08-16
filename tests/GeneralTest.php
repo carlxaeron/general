@@ -135,3 +135,4 @@ class TestUser extends Model
 
     protected $fillable = ['name', 'email'];
 }
+

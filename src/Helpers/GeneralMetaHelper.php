@@ -127,3 +127,4 @@ class GeneralMetaHelper
         return $query->get();
     }
 }
+

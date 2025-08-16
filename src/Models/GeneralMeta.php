@@ -74,3 +74,4 @@ class GeneralMeta extends Model
         }
     }
 }
+

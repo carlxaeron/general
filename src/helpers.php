@@ -301,3 +301,4 @@ if (!function_exists('find_by_meta')) {
         return GeneralMetaHelper::findByMeta($modelClass, $key, $value);
     }
 }
+

@@ -28,5 +28,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Relationship types and keys
 - Flexible metadata system with type support
 - Performance optimized database indexes
-- Laravel 10/11 compatibility
+- Laravel 10/11/12 compatibility
 - Easy-to-use traits and helper functions
+

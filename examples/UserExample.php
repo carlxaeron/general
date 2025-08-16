@@ -110,3 +110,4 @@ $age = $user1->getPreference('age');
 // Get all preferences
 $allPreferences = $user1->getAllPreferences();
 */
+

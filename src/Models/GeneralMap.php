@@ -111,3 +111,4 @@ class GeneralMap extends Model
         $this->save();
     }
 }
+

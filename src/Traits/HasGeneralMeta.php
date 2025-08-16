@@ -110,3 +110,4 @@ trait HasGeneralMeta
         return $this->generalMeta()->whereIn('key', $keys)->delete();
     }
 }
+
